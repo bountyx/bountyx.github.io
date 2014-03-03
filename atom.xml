@@ -4,7 +4,7 @@
   <title><![CDATA[pwn.ag]]></title>
   <link href="http://pwn.ag/atom.xml" rel="self"/>
   <link href="http://pwn.ag/"/>
-  <updated>2014-03-03T15:45:01-08:00</updated>
+  <updated>2014-03-03T15:46:35-08:00</updated>
   <id>http://pwn.ag/</id>
   <author>
     <name><![CDATA[pwn.ag]]></name>
@@ -12,16 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://pwn.ag/blog/2014/03/03/hello/"/>
-    <updated>2014-03-03T15:43:37-08:00</updated>
-    <id>http://pwn.ag/blog/2014/03/03/hello</id>
-    <content type="html"><![CDATA[<p>Testing adsklasjdl;aksdhjal;ksdh;asdjk
-asdkhasdkjashdkjlasgdhkasdas</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
